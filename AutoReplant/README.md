@@ -40,7 +40,3 @@ Bilder & gifs (Dateinamen in `AutoReplant/images/`):
 
 ---
 
-## Sanitisierte Konfigurationsdateien
-- [`sanitized_config.yml`](sanitized_config.yml) — Beispielkonfiguration (keine sensiblen Daten)  
-- [`sanitized_messages.yml`](sanitized_messages.yml) — Beispielmeldungen (lokalisierbar)
-
