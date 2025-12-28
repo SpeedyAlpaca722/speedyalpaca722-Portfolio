@@ -32,6 +32,7 @@ Bilder & gifs (Dateinamen in `AutoReplant/images/`):
 
 
 
+
 -  Actionbar-Meldung ("Du hast erfolgreich ... geerntet") 
 
 ![message_actionbar](AutoReplant/images/harvest.gif)
