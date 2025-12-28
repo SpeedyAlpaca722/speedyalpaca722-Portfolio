@@ -61,7 +61,7 @@ git clone <repository-url>
 cd WPEnchants
 mvn clean package
 
-
+```
 ---
 
 ## Bilder
@@ -79,3 +79,4 @@ Bilder & gifs (Dateinamen in `WPEnchants/images/`):
 - **text**
 
   ![text](WPEnchants/images/customenchanthelp_overview.png)
+
