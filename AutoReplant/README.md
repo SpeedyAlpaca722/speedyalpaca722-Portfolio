@@ -24,7 +24,7 @@ AutoReplant erntet Pflanzen per Rechtsklick und pflanzt sie automatisch wieder e
 
 ## Bilder
 
-Legende (Dateinamen in `AutoReplant/images/`):
+Bilder & gifs (Dateinamen in `AutoReplant/images/`):
 
 - Autoreplant Worldguard flag 
 
