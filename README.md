@@ -1,4 +1,4 @@
-# SpeedyAlpaca722 — Portfolio
+# speedyalpaca722 — Portfolio
 
 Sammlung meiner Minecraft-Plugins und meiner Discord-Bots. Jedes Projekt enthält Screenshots & gifs, sowie sanitisierte Konfigurationsdateien. Ich veröffentliche keine JARs oder Quellcode öffentlich.
 
