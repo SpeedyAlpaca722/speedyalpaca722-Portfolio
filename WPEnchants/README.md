@@ -72,11 +72,14 @@ Bilder & gifs (Dateinamen in `WPEnchants/images/`):
   
   ![text](WPEnchants/images/customenchant_anvilenchant.gif)
 
+
 - **text**
 
   ![text](WPEnchants/images/customenchant_menu.gif)
 
+
 - **text**
 
   ![text](WPEnchants/images/customenchanthelp_overview.png)
+
 
