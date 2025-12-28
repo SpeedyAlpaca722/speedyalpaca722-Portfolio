@@ -1,3 +1,6 @@
+wieso geht das nicht??
+
+
 # WPEnchants - Custom Enchantments Plugin
 
 Ein umfassendes Custom Enchantments Plugin für Minecraft Paper Server (1.21.+).
@@ -58,19 +61,21 @@ git clone <repository-url>
 cd WPEnchants
 mvn clean package
 
+
 ---
 
 ## Bilder
 
-Bilder & gifs (Dateinamen in `AutoReplant/images/`):
+Bilder & gifs (Dateinamen in `WPEnchants/images/`):
 
-- **Autoreplant Worldguard Flag**
+- **text**
+  
+  ![text](WPEnchants/images/customenchant_anvilenchant.gif)
 
-![Autoreplant Worldguard Flag](AutoReplant/images/auto-replant_worldguardflag.png)
+- **text**
 
-- **Actionbar-Meldung ("Du hast erfolgreich ... geerntet")**
+  ![text](WPEnchants/images/customenchant_menu.gif)
 
-![Actionbar-Meldung](AutoReplant/images/harvest.gif)
+- **text**
 
-
-
+  ![text](WPEnchants/images/customenchanthelp_overview.png)
