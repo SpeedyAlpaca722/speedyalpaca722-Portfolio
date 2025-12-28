@@ -1,6 +1,3 @@
-wieso geht das nicht??
-
-
 # WPEnchants - Custom Enchantments Plugin
 
 Ein umfassendes Custom Enchantments Plugin für Minecraft Paper Server (1.21.+).
@@ -82,6 +79,7 @@ Bilder & gifs (Dateinamen in `WPEnchants/images/`):
   Das Bild zeigt alle verfügbaren Custom Enchantments, Trank-Enchantments und die zugehörigen Befehle für die Anwendung im Spiel.
 
   ![Custom Enchantments Übersicht](WPEnchants/images/customenchanthelp_overview.png)
+
 
 
 
