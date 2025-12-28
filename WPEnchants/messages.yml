@@ -1,0 +1,113 @@
+# WPEnchants Deutsche Nachrichten
+
+# Plugin Prefix
+messages:
+  prefix: "&8[&dWPEnchants&8]"
+
+# Plugin Prefix (alternative path)
+prefix: "&8[&dWPEnchants&8]"
+
+# Allgemeine Nachrichten
+general:
+  no-permission: "&cDu hast keine Berechtigung für diese Aktion!"
+  player-only: "&cDieser Befehl kann nur von Spielern ausgeführt werden!"
+  invalid-usage: "&cFalsche Verwendung! Nutze: &7{usage}"
+  reload-success: "&aKonfiguration erfolgreich neu geladen!"
+  config-reloaded: "&aKonfiguration erfolgreich neu geladen!"
+
+# Enchant Nachrichten
+enchant:
+  applied: "&aEnchantment &d{enchant} {level} &aerfolgreich angewendet!"
+  removed: "&aEnchantment &d{enchant} &aerfolgreich entfernt!"
+  not-enchanted: "&cDieses Item hat kein &d{enchant} &cEnchantment!"
+  invalid-item: "&cDieses Item kann nicht mit &d{enchant} &cverzaubert werden!"
+  max-level: "&cMaximale Stufe: &d{enchant} &d{level}"
+  min-level: "&cMindeststufe: &d{enchant} &dI"
+  invalid-enchant: "&cUnbekanntes Enchantment: &d{enchant}"
+  invalid-level: "&cUngültige Stufe! &eVerwende 1-{max} oder I-{roman}"
+  no-item: "&cDu musst ein Item in der Hand halten!"
+  already-enchanted: "&cDieses Item hat bereits &d{enchant}&c!"
+
+# GUI Nachrichten
+gui:
+  title: "&d&lCustom Enchants"
+  close-name: "&4&lSchließen"
+  close-lore:
+    - "&7Klicke hier um das"
+    - "&7Menü zu schließen"
+
+# Enchant Beschreibungen
+descriptions:
+  wither:
+    name: "&dWither {level}"
+    lore:
+      - "&7Gibt dem Gegner mit einer"
+      - "&7Chance von &c{chance}% &7für &c7 Sekunden"
+      - "&7den &8Wither Effekt&7."
+      - ""
+      - "&7Anwendbar auf: &eAlle Schwerttypen"
+  timber:
+    name: "&dTimber {level}"
+    lore:
+      - "&7Beim Abbau eines Stammes wird"
+      - "&7der gesamte Baum abgebaut"
+      - "&7(max. &c50 Blöcke&7)"
+      - ""
+      - "&7Anwendbar auf: &eAlle Axttypen"
+  laubschere:
+    name: "&dLaubschere {level}"
+    lore:
+      - "&7Beim Abbau von Laub wird"
+      - "&7das gesamte Laub abgebaut"
+      - "&7(max. &c75 Laub&7)"
+      - ""
+      - "&7Anwendbar auf: &eScheren"
+  drachenatem:
+    name: "&dDrachenatem {level}"
+    lore:
+      - "&7Mit Rechtsklick wird ein"
+      - "&7Feuerball geschossen"
+      - "&7(&c8 Sekunden Cooldown&7)"
+      - ""
+      - "&7Anwendbar auf: &eAlle Schwerttypen"
+  gift:
+    name: "&dGift {level}"
+    lore:
+      - "&7Gibt dem Gegner mit einer"
+      - "&7Chance von &c{chance}% &7für &c5 Sekunden"
+      - "&7den &2Gift Effekt&7."
+      - ""
+      - "&7Anwendbar auf: &eAlle Schwerttypen"
+  geldgraber:
+    name: "&dGeldgräber {level}"
+    lore:
+      - "&7Beim Abbau von Blöcken"
+      - "&7kannst du Planetcoins erhalten:"
+      - "&70,5% → &6100 Planetcoins"
+      - "&70,34% → &6200 Planetcoins"
+      - "&70,15% → &6300 Planetcoins"
+      - "&70,01% → &6500 Planetcoins"
+      - ""
+      - "&7Anwendbar auf: &eAlle Tools"
+
+# Cooldown Nachrichten
+cooldown:
+  active: "&cDu musst noch &e{time} Sekunden &cwarten!"
+  drachenatem: "&cDrachenatem Cooldown: &e{time}s"
+  laubschere: "&cLaubschere Cooldown: &e{time}s"
+  
+# Erfolgs-Nachrichten
+success:
+  book-received: "&aDu hast das Buch &d{enchant} {level} &aerhalten!"
+  money-received: "&aDu hast &6{amount} Planetcoins &aerhalten!"
+  gift-applied: "&aGift {level} &aauf &e{target} &aangewendet!"
+  wither-applied: "&aWither {level} &aauf &e{target} &aangewendet!"
+  drachenatem-used: "&aDrachenatem aktiviert!"
+  laubschere-used: "&aLaubschere: &e{blocks} &aBlöcke abgebaut!"
+  geldgraber-found: "&6💰 &aGeldgräber: &e{amount} Planetcoins &agefunden!"
+
+# Fehler-Nachrichten
+error:
+  command-failed: "&cFehler beim Ausführen des Befehls!"
+  config-error: "&cFehler beim Laden der Konfiguration!"
+  inventory-full: "&cDein Inventar ist voll!"
