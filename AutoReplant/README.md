@@ -26,11 +26,11 @@ AutoReplant erntet Pflanzen per Rechtsklick und pflanzt sie automatisch wieder e
 
 Legende (Dateinamen in `AutoReplant/images/`):
 
---- Autoreplant Worldguard flag ---
-- ![harvest_before](AutoReplant/images/auto-replant_worldguardflag.png) 
+- --- Autoreplant Worldguard flag ---
+![harvest_before](AutoReplant/images/auto-replant_worldguardflag.png) 
 
---- Actionbar-Meldung ("Du hast erfolgreich ... geerntet") ---
-- ![message_actionbar](AutoReplant/images/harvest.gif)
+- --- Actionbar-Meldung ("Du hast erfolgreich ... geerntet") ---
+![message_actionbar](AutoReplant/images/harvest.gif)
 
 
 ---
