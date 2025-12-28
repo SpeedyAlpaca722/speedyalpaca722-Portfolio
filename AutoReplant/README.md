@@ -31,7 +31,9 @@ Legende (Dateinamen in `AutoReplant/images/`):
 ![harvest_before](AutoReplant/images/auto-replant_worldguardflag.png) 
 
 
+
 -  Actionbar-Meldung ("Du hast erfolgreich ... geerntet") 
+
 ![message_actionbar](AutoReplant/images/harvest.gif)
 
 
