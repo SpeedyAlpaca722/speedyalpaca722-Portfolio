@@ -1,0 +1,19 @@
+# AutoReplant Messages Configuration
+# All plugin messages are configurable here
+
+# Harvest and replant messages
+harvested: "&aDu hast erfolgreich %plant% geerntet!"
+harvest-success: "&aDu hast erfolgreich %plant% geerntet!"
+
+# Permission messages
+no-permission: "&7[&aAutoReplant&7] &cDu hast keine Berechtigung, hier zu ernten!"
+
+# Inventory and item messages
+inventory-full: "&cInventar ist voll! Ernte nicht möglich."
+
+# Plant state messages
+not-ready: "&cDiese Pflanze ist noch nicht bereit zur Ernte!"
+
+# Error messages
+error-general: "&c[AutoReplant] Ein Fehler ist aufgetreten!"
+error-worldguard: "&c[AutoReplant] WorldGuard-Fehler: %error%"
