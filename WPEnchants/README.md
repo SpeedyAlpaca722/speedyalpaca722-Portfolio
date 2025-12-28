@@ -68,18 +68,21 @@ mvn clean package
 
 Bilder & gifs (Dateinamen in `WPEnchants/images/`):
 
-- **text**
-  
-  ![text](WPEnchants/images/customenchant_anvilenchant.gif)
+- **Amboss-Kombination von Enchantments**  
+  Das Gif zeigt, wie man zwei Stufe-I-Bücher kombiniert, um ein Stufe-II-Buch zu erstellen, und dann zwei Stufe-II-Bücher im Amboss zu einem Stufe-III-Buch kombiniert. Das finale Stufe-III-Buch wird anschließend auf eine Spitzhacke angewendet.
+
+  ![Amboss-Kombination](WPEnchants/images/customenchant_anvilenchant.gif)
+
+- **Custom Enchants GUI Menü**  
+  In diesem Gif wird das benutzerfreundliche Custom Enchantments GUI-Menü gezeigt, in dem alle verfügbaren Enchantment-Bücher angezeigt werden.
+
+  ![Custom Enchants GUI Menü](WPEnchants/images/customenchant_menu.gif)
+
+- **Verfügbare Custom Enchantments und Befehle**  
+  Das Bild zeigt alle verfügbaren Custom Enchantments, Trank-Enchantments und die zugehörigen Befehle für die Anwendung im Spiel.
+
+  ![Custom Enchantments Übersicht](WPEnchants/images/customenchanthelp_overview.png)
 
 
-- **text**
-
-  ![text](WPEnchants/images/customenchant_menu.gif)
-
-
-- **text**
-
-  ![text](WPEnchants/images/customenchanthelp_overview.png)
 
 
