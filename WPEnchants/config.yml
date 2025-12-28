@@ -1,0 +1,70 @@
+# WPEnchants Konfiguration
+# Plugin Version: 1.0.0
+
+# Enchantment Einstellungen
+enchants:
+  whiter:
+    enabled: true
+    max-level: 3
+    chances: [5, 10, 15]  # Prozent für Stufe I, II, III
+    duration: 7           # Sekunden
+  timber:
+    enabled: true
+    max-blocks: 50        # Maximale Anzahl Blöcke
+  laubschere:
+    enabled: true
+    max-blocks: 75        # Maximale Anzahl Laub
+    cooldown: 3           # Sekunden
+  drachenatem:
+    enabled: true
+    cooldown: 8           # Sekunden
+    fireball-speed: 2.0   # Geschwindigkeit des Feuerballs
+  gift:
+    enabled: true
+    max-level: 3
+    chances: [5, 10, 15]  # Prozent für Stufe I, II, III
+    duration: 5           # Sekunden
+  geldgraber:
+    enabled: true
+    chances:              # Wahrscheinlichkeit -> Betrag (NORMALE WERTE)
+      100: 0.5            # 0,5% für 100 Planetcoins
+      200: 0.34           # 0,34% für 200 Planetcoins
+      300: 0.15           # 0,15% für 300 Planetcoins
+      500: 0.01           # 0,01% für 500 Planetcoins
+  
+  # Trank Enchantments
+  schnelligkeittrank:
+    enabled: true
+    effect-level: 1       # Level 2 (Index 1) - Geschwindigkeit II
+    duration: 3600        # Sekunden (1 Stunde = 3600 Sekunden)
+  uebelkeittrank:
+    enabled: true
+    effect-level: 2       # Level 3 (Index 2) - Übelkeit III
+    duration: 900         # Sekunden (15 Minuten)
+  blindheittrank:
+    enabled: true
+    effect-level: 0       # Level 1 (Index 0) - Blindheit I
+    duration: 900         # Sekunden (15 Minuten)
+  eiletrank:
+    enabled: true
+    effect-level: 1       # Level 2 (Index 1) - Eile II
+    duration: 3600        # Sekunden (1 Stunde = 3600 Sekunden)
+  staerketrank:
+    enabled: true
+    effect-level: 1       # Level 2 (Index 1) - Stärke II
+    duration: 3600        # Sekunden (1 Stunde)
+
+# GUI Menü Einstellungen
+gui:
+  title: "&d&lCustom Enchants"
+  size: 54                        # 6 Reihen
+  fill-item: "GRAY_STAINED_GLASS_PANE"
+  close-item: "BARRIER"
+  close-slot: 49
+
+# Allgemeine Einstellungen
+settings:
+  debug: false
+  check-updates: true
+  roman-numerals: true            # Römische Zahlen für Enchant-Stufen
+  particles: true                 # Alle Partikel-Effekte an/aus
