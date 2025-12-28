@@ -1,0 +1,18 @@
+# AutoReplant Configuration File
+# All settings and messages as specified in planning document section 6.1
+
+# Growth settings
+min-growth-time: 120         # Minimum time for complete growth (seconds)
+growth-probability: 0.35    # Random probability for growth progress per tick (35%)
+
+# Message settings - enable/disable individual message types
+messages:
+  enabled:
+    harvested: true           # Show harvest success messages (action bar)
+    inventory-full: true      # Show inventory full warnings (action bar)
+    not-ready: true           # Show plant not ready messages (action bar)
+    error-general: true       # Show general error messages (log only)
+    error-worldguard: true    # Show WorldGuard error messages (log only)
+
+# WorldGuard integration now uses flags instead of config-based regions
+# Use: /rg flag <region> auto-replant allow/deny
