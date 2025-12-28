@@ -58,3 +58,19 @@ git clone <repository-url>
 cd WPEnchants
 mvn clean package
 
+---
+
+## Bilder
+
+Bilder & gifs (Dateinamen in `AutoReplant/images/`):
+
+- **Autoreplant Worldguard Flag**
+
+![Autoreplant Worldguard Flag](AutoReplant/images/auto-replant_worldguardflag.png)
+
+- **Actionbar-Meldung ("Du hast erfolgreich ... geerntet")**
+
+![Actionbar-Meldung](AutoReplant/images/harvest.gif)
+
+
+
