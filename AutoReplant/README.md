@@ -22,27 +22,14 @@ AutoReplant erntet Pflanzen per Rechtsklick und pflanzt sie automatisch wieder e
 
 ---
 
-## Demo
-
-**So sieht AutoReplant in Aktion aus.**  
-Klicken Sie auf das Bild, um das Demo-Video (YouTube — *unlisted*) zu öffnen.
-
-<p align="center">
-  <a href="https://youtu.be/DEIN_VIDEO_CODE" target="_blank" rel="noopener noreferrer">
-    <img src="images/demo_thumb.png" alt="AutoReplant Demo" style="max-width:640px; width:100%; height:auto; border:1px solid #ddd;">
-  </a>
-</p>
-
-**Kurzbeschreibung des Demos:**  
-Das Video zeigt den Ablauf „Feld abbauen → Auto-Replant“ einschließlich der Actionbar/Chat-Meldung und des Verhaltens bei gesetzter WorldGuard-Flag (`allow` vs. `deny`). Dauer: ca. XX Sekunden.
-
----
-
 ## Bilder
+
 Legende (Dateinamen in `AutoReplant/images/`):
-- `harvest_before.png` — Zustand vor der Ernte  
-- `harvest_after.png` — Zustand nach der Ernte / Wiederanpflanzung  
-- `message_actionbar.png` — Actionbar/Chat-Meldung (z. B. „Du hast erfolgreich …“)
+
+- ![harvest_before](AutoReplant/images/harvest_before.png) — Zustand vor der Ernte
+- ![harvest_after](AutoReplant/images/harvest_after.png) — Zustand nach der Ernte / Wiederanpflanzung
+- ![message_actionbar](AutoReplant/images/harvest.gif) — Actionbar/Chat-Meldung ("Du hast erfolgreich ...")
+
 
 ---
 
