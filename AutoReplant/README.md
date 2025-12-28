@@ -1,7 +1,7 @@
 # AutoReplant
 
 **Kurzpitch**  
-AutoReplant erntet Pflanzen per Rechtsklick und pflanzt sie automatisch wieder ein. Optimiert für Paper 1.21+; optional mit WorldGuard-Flag-Integration zur Gebietskontrolle. Ich veröffentliche keine JARs oder Quellcode öffentlich — JAR auf Anfrage.
+AutoReplant erntet Pflanzen per Rechtsklick und pflanzt sie automatisch wieder ein. Optimiert für Paper 1.21+; optional mit WorldGuard-Flag-Integration zur Gebietskontrolle. Ich veröffentliche keine JARs oder Quellcode öffentlich.
 
 ## Funktionen
 - Rechtsklick-Ernte für Standardpflanzen (Weizen, Karotten, Kartoffeln, Rote Beete)
