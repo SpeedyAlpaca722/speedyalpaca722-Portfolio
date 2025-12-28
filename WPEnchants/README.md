@@ -1,6 +1,6 @@
 # WPEnchants - Custom Enchantments Plugin
 
-Ein umfassendes Custom Enchantments Plugin für Minecraft Paper Server (1.21.5 - 1.21.7).
+Ein umfassendes Custom Enchantments Plugin für Minecraft Paper Server (1.21.+).
 
 ## 📋 Übersicht
 
@@ -48,7 +48,7 @@ WPEnchants fügt 21 einzigartige Custom Enchantments zu deinem Minecraft Server 
 ## 🚀 Installation
 
 ### Voraussetzungen
-- **Minecraft Server**: Paper 1.21.5, 1.21.6 oder 1.21.7
+- **Minecraft Server**: Paper 1.21.+
 - **Java**: Version 17 oder höher
 - **Maven**: Für die Kompilierung (optional)
 
@@ -57,3 +57,4 @@ WPEnchants fügt 21 einzigartige Custom Enchantments zu deinem Minecraft Server 
 git clone <repository-url>
 cd WPEnchants
 mvn clean package
+
